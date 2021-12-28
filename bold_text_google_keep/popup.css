@@ -1,0 +1,35 @@
+*{
+    padding: 0px;
+    margin:0px;
+}
+body{
+    background-color:#FBD148;
+    color:rgb(39, 39, 39);
+    border:#E5890A solid 2px;
+}
+#popup {
+    width:200px;
+    padding: 10px;
+    
+}
+
+.col-red{
+    color:#E02401;
+}
+.selected{
+    width: 100%;
+    padding: 5px;
+    font-size:15px;
+    border-radius: 5px;
+}
+
+.heading{
+    background-color: rgb(255, 255, 255);
+    border-radius: 5px;
+    color: #E5890A;
+    padding: 10px;
+    
+}
+.font-heading{
+     padding: 5px;
+}
